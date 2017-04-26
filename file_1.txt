@@ -1,0 +1,3 @@
+this is the setup for out lab environment 
+for git hub for collaboration class 
+the second class in the series hosted by TechU 
